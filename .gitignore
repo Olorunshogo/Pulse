@@ -44,3 +44,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# === AI agent / editor tool directories
+.claude/
+.cursor/
+.kiro/
+.kilo/
+.agents/
+.zed/
+.windsurf/
+.continue/

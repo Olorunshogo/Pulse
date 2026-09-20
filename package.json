@@ -2,6 +2,32 @@
   "name": "pulse",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
+  "description": "The session layer for DreamDEX Event Contracts on Somnia: your winnings come to you.",
+  "keywords": [
+    "somnia",
+    "dreamdex",
+    "event-contracts",
+    "prediction-markets",
+    "nextjs",
+    "solidity",
+    "wagmi",
+    "viem"
+  ],
+  "author": "Pulse Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olorunshogo/Pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Olorunshogo/Pulse/issues"
+  },
+  "homepage": "https://github.com/Olorunshogo/Pulse#readme",
+  "engines": {
+    "node": ">=24",
+    "npm": ">=10"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
